@@ -5,6 +5,11 @@ Hello World! This is VIPUL KUMAWAT. 🇮🇳
 
 soon GOING TO MEET FUTURE VIPUL. 😁
 
+
+---
+[![](https://visitcount.itsvg.in/api?id=thevipulkumawat&icon=5&color=9)](https://visitcount.itsvg.in)
+
+
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_whizzzz)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/thevipulkumawat) 
 
@@ -23,6 +28,3 @@ soon GOING TO MEET FUTURE VIPUL. 😁
 
 ### 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=thevipulkumawat&icon=5&color=9)](https://visitcount.itsvg.in)
