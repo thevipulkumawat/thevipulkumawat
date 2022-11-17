@@ -1,9 +1,11 @@
 # 💫About Me :
 Hello World! This is VIPUL KUMAWAT. 🇮🇳
+IN 4th year of College Loop.
+
 
 || I am currently working in flutter, creating apps ||
 
-soon GOING TO MEET FUTURE VIPUL. 😁
+
 
 
 ---
